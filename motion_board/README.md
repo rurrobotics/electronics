@@ -29,4 +29,5 @@ Ima i svoj [nucleo board](https://www.st.com/en/evaluation-tools/nucleo-g474re.h
 - [] Dodati arduino uno headere za pololu shield
 - [] Dodati CAN komunikaciju
 - [] Videti koje motor enkoder konektore imamo
+- [] Izdvojiti pinove za programiranje preko ST-LINK 
 - [] ...
