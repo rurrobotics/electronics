@@ -53,7 +53,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Communication.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -70,7 +70,7 @@ DocumentUniqueId=TBFRELKC
 
 [Document2]
 DocumentPath=MotorEncoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -87,7 +87,7 @@ DocumentUniqueId=HHPYATHF
 
 [Document3]
 DocumentPath=OdomEncoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -104,7 +104,7 @@ DocumentUniqueId=GJVLAPQI
 
 [Document4]
 DocumentPath=Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -121,7 +121,7 @@ DocumentUniqueId=EEGORNRF
 
 [Document5]
 DocumentPath=STM32.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -152,6 +152,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document7]
+DocumentPath=VoltageRegulator_3v3.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZSWXLMYT
 
 [Configuration1]
 Name=Sources
