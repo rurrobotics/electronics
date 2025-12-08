@@ -30,10 +30,10 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 
 ## TODO
 - [] Dodati arduino uno headere za pololu shield
-- [] Dodati CAN komunikaciju
+- [x] Dodati CAN komunikaciju
 - [] Videti koje motor enkoder konektore imamo
-- [] Izdvojiti pinove za programiranje preko ST-LINK 
-- [] Dodati dugme za reset
+- [x] Izdvojiti pinove za programiranje preko ST-LINK 
+- [x] Dodati dugme za reset
 - [] Dodati lampice na can-u
 - [] Dodati IMU
 - [] Dodati lampice na st link
