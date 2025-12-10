@@ -29,11 +29,6 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 (CAN2_RX) - PB12 
 
 ## TODO
-- [x] Dodati arduino uno headere za pololu shield
-- [x] Dodati CAN komunikaciju
-- [x] Videti koje motor enkoder konektore imamo
-- [x] Izdvojiti pinove za programiranje preko ST-LINK 
-- [x] Dodati dugme za reset
 - [] Dodati lampice na can-u
 - [] Dodati IMU
 - [] Dodati lampice na st link
