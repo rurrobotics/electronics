@@ -30,6 +30,5 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 
 ## TODO
 - [] Dodati lampice na can-u
-- [] Dodati IMU
 - [] Dodati lampice na st link
 - [] ...
