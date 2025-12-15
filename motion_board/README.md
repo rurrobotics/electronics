@@ -15,6 +15,7 @@ Moze se kupiti preko digikey [link](https://www.digikey.com/en/products/detail/s
 
 Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroelectronics-nucleo-f446re/) 
 
+[slika za raspored shield headera](https://www.wayneandlayne.com/files/common/arduino_uno_drawing_5000x3515.png)
 
 ## Wiring
 (TIM3) PA6 - ENC1_A
@@ -31,4 +32,5 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 ## TODO
 - [] Dodati lampice na can-u
 - [] Dodati lampice na st link
+- [] Staviti odgovarajuci mtr enc konektor
 - [] ...
