@@ -32,5 +32,4 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 ## TODO
 - [] Dodati lampice na can-u
 - [] Dodati lampice na st link
-- [] Staviti odgovarajuci mtr enc konektor
 - [] ...
