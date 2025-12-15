@@ -15,7 +15,9 @@ Moze se kupiti preko digikey [link](https://www.digikey.com/en/products/detail/s
 
 Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroelectronics-nucleo-f446re/) 
 
+## Jako korisni linkovi 
 [slika za raspored shield headera](https://www.wayneandlayne.com/files/common/arduino_uno_drawing_5000x3515.png)
+[maxon enkoder doc](https://www.maxongroup.com/medias/CMS_Downloads/DIVERSES/ENXEASY_EN.pdf)
 
 ## Wiring
 (TIM3) PA6 - ENC1_A
