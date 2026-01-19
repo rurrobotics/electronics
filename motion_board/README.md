@@ -30,8 +30,3 @@ Ima i svoj [nucleo board](https://elektroleum.rs/product/razvojna-ploca-stmicroe
 
 (CAN2_TX) - PB13
 (CAN2_RX) - PB12 
-
-## TODO
-- [] Dodati lampice na can-u
-- [] Dodati lampice na st link
-- [] ...
