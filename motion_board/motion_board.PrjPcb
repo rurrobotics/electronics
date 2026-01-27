@@ -53,7 +53,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Communication.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -70,7 +70,7 @@ DocumentUniqueId=TBFRELKC
 
 [Document2]
 DocumentPath=MotorEncoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -87,7 +87,7 @@ DocumentUniqueId=HHPYATHF
 
 [Document3]
 DocumentPath=OdomEncoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -104,7 +104,7 @@ DocumentUniqueId=GJVLAPQI
 
 [Document4]
 DocumentPath=Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -155,7 +155,7 @@ DocumentUniqueId=
 
 [Document7]
 DocumentPath=VoltageRegulator_3v3.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -172,7 +172,7 @@ DocumentUniqueId=ZSWXLMYT
 
 [Document8]
 DocumentPath=STLink.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -189,7 +189,7 @@ DocumentUniqueId=XYBOUHGU
 
 [Document9]
 DocumentPath=MotorShield.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -308,7 +308,7 @@ DocumentUniqueId=XIBDSIBB
 
 [Document16]
 DocumentPath=Oscilator.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -325,7 +325,7 @@ DocumentUniqueId=UEVICTRN
 
 [Document17]
 DocumentPath=IMU.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -950,11 +950,6 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=BOM_ReportManufacturing
-OutputName10=Manufacturing Data
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1249,8 +1244,6 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
-Type160=1
-Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1340,7 +1333,6 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
-Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1506,8 +1498,6 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
-Type164=1
-Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
